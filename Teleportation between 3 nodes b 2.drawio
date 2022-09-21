@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T07:27:41.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="BEdJih9PziscbrNVuBIx" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-21T14:00:22.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="L8sjXcIAeHOP_OdeIigS" version="20.3.3" type="github">
   <diagram id="1SvKQS_2Lh-dWrKrwmnV" name="Sayfa -1">
-    <mxGraphModel dx="862" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="862" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
         <mxCell id="462g3XgbdRgyeNSREBQg-33" value="Hafıza Kübiti" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Architects Daughter;fontColor=#1F0F00;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="630" y="100" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MSe4pkzpMm800M5lCLbA-21" value="" style="endArrow=classic;html=1;strokeWidth=1;opacity=40;curved=1;sketch=0;shadow=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="462g3XgbdRgyeNSREBQg-11">
+        <mxCell id="MSe4pkzpMm800M5lCLbA-21" value="" style="endArrow=classic;html=1;strokeWidth=1;opacity=40;curved=1;sketch=0;shadow=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="462g3XgbdRgyeNSREBQg-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="430" as="sourcePoint" />
             <mxPoint x="170" y="170" as="targetPoint" />
