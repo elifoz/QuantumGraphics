@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T06:09:47.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="pZUd68XFToLyrGjWhYIQ" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-11T06:30:13.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="_f46d7s9Keb_j-6Fa6nZ" version="20.3.6" type="github">
   <diagram id="6oUjA9D6RYRwFqdBIRCz" name="Sayfa -1">
     <mxGraphModel dx="862" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="KzJaSiEUEcrQhtmxzuKy-4" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Client 2&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Ip Number: 192.103.10.121&lt;br&gt;Port: 678&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="360" y="-400" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="KzJaSiEUEcrQhtmxzuKy-5" value="&lt;b&gt;Service&lt;br&gt;&lt;/b&gt;Ip Number: 203.0.113.1&lt;br&gt;Port: 678&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="KzJaSiEUEcrQhtmxzuKy-5" value="&lt;b&gt;Server&lt;br&gt;&lt;/b&gt;Ip Number: 203.0.113.1&lt;br&gt;Port: 678&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="110" y="-520" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KzJaSiEUEcrQhtmxzuKy-7" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
