@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T10:40:06.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="VxcdfyOgj-7tEq9SY_nP" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-14T17:47:35.793Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="6GDxQZ27mRUNPfCdGHIW" version="20.4.0" type="github">
   <diagram id="1SvKQS_2Lh-dWrKrwmnV" name="Sayfa -1">
-    <mxGraphModel dx="862" dy="393" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,10 +31,10 @@
         <mxCell id="NWAOFFypYSvB6xpPgNgA-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;00&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="368" y="184" width="56" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NWAOFFypYSvB6xpPgNgA-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Gönderilmek istenen klasik iki bit mesa&lt;/font&gt;j&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="352" y="208" width="216" height="40" as="geometry" />
+        <mxCell id="NWAOFFypYSvB6xpPgNgA-3" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;2 classical bit message to transmit&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="352" y="216" width="224" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="i-uiZKfh77qlB-6FpXUl-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;entryX=0.979;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="462g3XgbdRgyeNSREBQg-5">
+        <mxCell id="i-uiZKfh77qlB-6FpXUl-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;entryX=0.979;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="462g3XgbdRgyeNSREBQg-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="408" y="200" as="sourcePoint" />
             <mxPoint x="440" y="144" as="targetPoint" />
